@@ -1,0 +1,2 @@
+# ReactReduxZahlPlusMinus
+![](readmeImage/zahl.jpg)

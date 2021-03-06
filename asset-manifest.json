@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-redux-zalh-plus-minus/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react-redux-zalh-plus-minus/static/js/main.95a215c3.chunk.js",
+    "main.js.map": "/react-redux-zalh-plus-minus/static/js/main.95a215c3.chunk.js.map",
+    "runtime-main.js": "/react-redux-zalh-plus-minus/static/js/runtime-main.78f9d04e.js",
+    "runtime-main.js.map": "/react-redux-zalh-plus-minus/static/js/runtime-main.78f9d04e.js.map",
+    "static/js/2.d98f739f.chunk.js": "/react-redux-zalh-plus-minus/static/js/2.d98f739f.chunk.js",
+    "static/js/2.d98f739f.chunk.js.map": "/react-redux-zalh-plus-minus/static/js/2.d98f739f.chunk.js.map",
+    "index.html": "/react-redux-zalh-plus-minus/index.html",
+    "precache-manifest.5c81f88c92f21c2dbed54551d1a5ea72.js": "/react-redux-zalh-plus-minus/precache-manifest.5c81f88c92f21c2dbed54551d1a5ea72.js",
+    "service-worker.js": "/react-redux-zalh-plus-minus/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-redux-zalh-plus-minus/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.d98f739f.chunk.js.LICENSE": "/react-redux-zalh-plus-minus/static/js/2.d98f739f.chunk.js.LICENSE",
+    "static/media/Mathe.jpg": "/react-redux-zalh-plus-minus/static/media/Mathe.91a8270b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78f9d04e.js",
+    "static/js/2.d98f739f.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.95a215c3.chunk.js"
+  ]
+}
